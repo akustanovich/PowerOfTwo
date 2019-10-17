@@ -8,7 +8,7 @@ namespace PowerOfTwo
     {
       if (args.Length > 0)
       {
-        var result = Power(args[0]);
+        var result = Power(Int32.Parse(args[0]));
         Console.WriteLine($" Power of 2 for {args[0]} is {result:N2}");
       }
       else
