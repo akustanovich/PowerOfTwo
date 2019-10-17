@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowerOfTwo": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}

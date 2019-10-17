@@ -1,0 +1,11 @@
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.exe
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.deps.json
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.runtimeconfig.json
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.dll
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.0\PowerOfTwo.pdb
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.0\PowerOfTwo.dll
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.0\PowerOfTwo.pdb
+C:\Users\kusti\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.0\PowerOfTwo.csprojAssemblyReference.cache
